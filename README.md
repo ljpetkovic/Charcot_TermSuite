@@ -2,7 +2,7 @@
 
 Le répertoire `output` contient deux sous-dossiers :
 
-1. `orig` : tableaux originaux issus de l'extraction des termes à partir des corpus Charcot et Autres, avec de diverses métriques (fréquence, TF-IDF, spécificité...) sous deux formats : 
+1. `orig` : tableaux originaux issus de l'extraction des termes uniques à partir des corpus Charcot et Autres, avec de diverses métriques (fréquence, TF-IDF, spécificité...) sous deux formats : 
 
 	* `.tsv` par défaut, en revanche il ne permet la sauvegarde que d'une seule feuille active au sein d'un tableau complet (p. ex. si l'on a généré un tableau dynamique dans une 2<sup>e</sup> feuille à partir des données d'origine de la 1<sup>e</sup> feuille, on perd ces données d'origine) ;
 	*  `.ods` : format généré ultérieurement pour pallier le problème de la sauvegarde incomplète.
