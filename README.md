@@ -1,4 +1,5 @@
-# Extraction de la terminologie à partir des corpus Charcot et Autres à l'aide de l'outil [TermSuite](https://termsuite.github.io/)
+# Extraction de la terminologie à partir des corpus Charcot et Autres à l'aide de l'outil [TermSuite](https://termsuite.github.io/) (Cram & Daille, 2016)
+
 Le répertoire `output` contient deux sous-dossiers :
 
 1. `orig` : tableaux originaux issus de l'extraction des termes à partir des corpus Charcot et Autres, avec de diverses métriques (fréquence, TF-IDF, spécificité...) sous deux formats : 
