@@ -5,10 +5,10 @@
 465	T	465	n: hystérie	hystérie	66	N	hystérie	4.02	5770	0.57	3287	87,42	0,689223888014578
 489	T	489	n: tion	tion	68	N	tion	4.50	5778	0.69	3987	84,97	0,668930671746873
 94	T	94	a: pathologique	pathologique	68	A	pathologique	3.79	5695	0.21	1177	83,75	0,658825478340098
-95	T	95	a: psychique	psychique	61	A	psychique	4.40	4636	0.26	1219	76,00	0,594632651370828
+95	T	95	a: psychique	psychique	61	A	psychique	4.40	4636	0.26	1219	76	0,594632651370828
 279	T	279	n: hallucination	hallucination	64	N	hallucinations	3.57	4761	0.47	2236	74,39	0,58129710925205
 150	T	150	n: atrophie	atrophie	68	N	atrophie	4.44	5010	0.25	1271	73,68	0,575416218007123
-176	T	176	n: scaphandre	scaphandre	4	N	SCAPHANDRES	3.19	286	0.12	34	71,50	0,557359397001574
+176	T	176	n: scaphandre	scaphandre	4	N	SCAPHANDRES	3.19	286	0.12	34	71,5	0,557359397001574
 319	T	319	na: paralysie général	paralysie général	65	N A	paralysie générale	3.54	4440	0.82	3624	68,31	0,530936801126481
 198	T	198	na: société savant	société savant	58	N A	SOCIÉTÉS SAVANTES	3.69	3591	1.00	3577	61,91	0,477925950467986
 23	T	23	n: contracture	contracture	67	N	contracture	3.38	3947	0.48	1885	58,91	0,453077114221817
@@ -42,12 +42,12 @@
 87	T	87	n: neurone	neurone	27	N	neurones	3.73	994	0.43	425	36,81	0,270024020541705
 270	T	270	na: pathologie mental	pathologie mental	55	N A	PATHOLOGIE MENTALE	3.24	1890	0.62	1180	34,36	0,249730804274
 212	T	212	a: anatomique	anatomique	68	A	anatomique	3.62	2298	0.23	522	33,79	0,245009525387228
-147	T	147	a: convulsif	convulsif	67	A	convulsifs	4.09	2238	0.17	380	33,40	0,241779176675226
+147	T	147	a: convulsif	convulsif	67	A	convulsifs	4.09	2238	0.17	380	33,4	0,241779176675226
 152	T	152	a: analogue	analogue	68	A	analogues	3.78	2225	0.57	1273	32,72	0,236146773792761
 498	T	498	a: dorsal	dorsal	67	A	dorsale	3.77	2156	0.18	393	32,18	0,23167398326845
 475	T	475	n: contraction	contraction	67	N	contraction	3.59	2132	0.40	854	31,82	0,22869212291891
 223	T	223	n: hérédité	hérédité	63	N	hérédité	4.03	1971	0.52	1020	31,29	0,224302161848753
-226	T	226	a: organique	organique	68	A	organique	3.76	2115	0.22	469	31,10	0,222728402219829
+226	T	226	a: organique	organique	68	A	organique	3.76	2115	0.22	469	31,1	0,222728402219829
 35	T	35	n: névrite	névrite	63	N	névrite	3.70	1822	0.29	526	28,92	0,20467158121428
 283	T	283	n: tique	tique	64	N	tique	4.00	1832	0.88	1610	28,63	0,202269527043817
 158	T	158	a: physiologique	physiologique	68	A	physiologique	3.25	1946	0.41	797	28,62	0,202186697589663
@@ -66,10 +66,10 @@
 154	T	154	n: idiotie	idiotie	56	N	idiotie	3.91	1490	0.49	737	26,61	0,18553797730473
 334	T	334	a: cervical	cervical	67	A	cervicale	3.99	1781	0.20	363	26,58	0,185289488942268
 21	T	21	a: sensitif	sensitif	65	A	sensitifs	3.97	1691	0.29	493	26,02	0,18065103950965
-497	T	497	a: mélancolique	mélancolique	59	A	mélancolique	3.22	1528	0.61	936	25,90	0,179657086059803
+497	T	497	a: mélancolique	mélancolique	59	A	mélancolique	3.22	1528	0.61	936	25,9	0,179657086059803
 203	T	203	na: maladie mental	maladie mental	57	N A	maladies mentales	3.60	1472	0.57	832	25,82	0,178994450426572
 111	T	111	na: cellule nerveux	cellule nerveux	64	N A	cellules nerveuses	3.65	1627	0.65	1059	25,42	0,175681272260416
-232	T	232	n: aphasie	aphasie	64	N	aphasie	3.94	1600	0.45	717	25,00	0,172202435185952
+232	T	232	n: aphasie	aphasie	64	N	aphasie	3.94	1600	0.45	717	25	0,172202435185952
 27	T	27	a: occipital	occipital	61	A	occipital	3.44	1512	0.17	264	24,79	0,17046301664872
 174	T	174	n: ments	ments	63	N	ments	3.92	1536	0.74	1132	24,38	0,16706700902841
 168	T	168	n: intoxication	intoxication	65	N	intoxication	3.45	1552	0.48	745	23,88	0,162925536320716
@@ -82,7 +82,7 @@
 355	T	355	a: biliaire	biliaire	33	A	biliaires	3.60	729	0.18	132	22,09	0,148099064027168
 481	T	481	n: ganglion	ganglion	66	N	ganglions	3.90	1442	0.31	442	21,85	0,146111157127475
 307	T	307	n: sillon	sillon	65	N	sillon	3.89	1416	0.25	359	21,78	0,145531350948397
-348	T	348	a: oculaire	oculaire	66	A	oculaires	3.59	1432	0.17	237	21,70	0,144868715315166
+348	T	348	a: oculaire	oculaire	66	A	oculaires	3.59	1432	0.17	237	21,7	0,144868715315166
 173	T	173	a: pariétal	pariétal	64	A	pariétal	3.58	1380	0.41	560	21,56	0,143709102957012
 424	T	424	a: lombaire	lombaire	68	A	lombaire	3.90	1442	0.17	242	21,21	0,140810072061625
 300	T	300	n: lobule	lobule	63	N	lobule	3.56	1332	0.27	362	21,14	0,140230265882548
@@ -93,8 +93,8 @@
 193	T	193	n: cervelet	cervelet	61	N	cervelet	3.83	1246	0.64	799	20,43	0,134349374637621
 60	T	60	n: cavité	cavité	68	N	cavité	3.88	1385	0.38	528	20,37	0,133852397912698
 273	T	273	a: cellulaire	cellulaire	66	A	cellulaire	3.26	1336	0.17	233	20,24	0,132775615008697
-96	T	96	n: varia	varia	54	N	VARIA	3.77	1091	0.96	1051	20,20	0,132444297192081
-265	T	265	na: champ visuel	champ visuel	61	N A	champ visuel	3.23	1232	0.48	595	20,20	0,132444297192081
+96	T	96	n: varia	varia	54	N	VARIA	3.77	1091	0.96	1051	20,2	0,132444297192081
+265	T	265	na: champ visuel	champ visuel	61	N A	champ visuel	3.23	1232	0.48	595	20,2	0,132444297192081
 397	T	397	n: scissure	scissure	58	N	scissure	3.80	1169	0.14	168	20,16	0,132112979375466
 416	T	416	a: ques	ques	64	A	ques	3.85	1289	1.00	1288	20,14	0,131947320467158
 473	T	473	n: sion	sion	64	N	sion	3.84	1273	0.81	1026	19,89	0,129876584113311
@@ -118,12 +118,12 @@
 28	T	28	n: hospice	hospice	67	N	hospice	3.82	1224	0.49	594	18,27	0,116458212540379
 18	T	18	na: atrophie musculaire	atrophie musculaire	64	N A	atrophie musculaire	3.50	1167	0.56	658	18,23	0,116126894723764
 43	T	43	n: méningite	méningite	65	N	méningite	3.51	1184	0.36	421	18,22	0,11604406526961
-341	T	341	n: amnésie	amnésie	58	N	amnésie	3.46	1050	0.52	544	18,10	0,115050111819763
+341	T	341	n: amnésie	amnésie	58	N	amnésie	3.46	1050	0.52	544	18,1	0,115050111819763
 44	T	44	n: exagération	exagération	67	N	exagération	3.52	1208	0.38	456	18,03	0,114470305640686
 414	T	414	n: coloration	coloration	68	N	coloration	3.35	1223	0.36	438	17,99	0,11413898782407
 177	T	177	n: méninge	méninge	65	N	méninges	3.50	1156	0.68	788	17,78	0,112399569286838
-91	T	91	a: cérébelleux	cérébelleux	61	A	cérébelleux	3.47	1080	0.25	273	17,70	0,111736933653607
-412	T	412	n: ouïe	ouïe	64	N	ouïe	3.79	1120	0.38	431	17,50	0,110080344570529
+91	T	91	a: cérébelleux	cérébelleux	61	A	cérébelleux	3.47	1080	0.25	273	17,7	0,111736933653607
+412	T	412	n: ouïe	ouïe	64	N	ouïe	3.79	1120	0.38	431	17,5	0,110080344570529
 306	T	306	a: vasculaire	vasculaire	66	A	vasculaire	3.50	1148	0.26	302	17,39	0,109169220574836
 34	T	34	n: tubercule	tubercule	65	N	tubercules	3.31	1130	0.31	352	17,38	0,109086391120683
 52	T	52	a: tuberculeux	tuberculeux	61	A	tuberculeuse	3.29	1060	0.43	452	17,38	0,109086391120683
@@ -163,23 +163,23 @@
 263	T	263	n: jointure	jointure	43	N	jointures	3.51	591	0.55	324	13,74	0,078936469808664
 209	T	209	n: membrane	membrane	67	N	membrane	3.70	916	0.47	427	13,67	0,0783566636295867
 445	T	445	n: surdité	surdité	63	N	surdité	3.37	852	0.29	243	13,52	0,0771142218172782
-134	T	134	na: corps calleux	corps calleux	52	N A	corps calleux	3.28	702	0.59	412	13,50	0,0769485629089704
+134	T	134	na: corps calleux	corps calleux	52	N A	corps calleux	3.28	702	0.59	412	13,5	0,0769485629089704
 253	T	253	a: rotulien	rotulien	63	A	rotuliens	3.66	845	0.10	86	13,41	0,0762030978215854
 184	T	184	na: nerf optique	nerf optique	64	N A	nerf optique	3.67	852	0.57	482	13,31	0,0753748032800464
 328	T	328	na: écorce cérébral	écorce cérébral	59	N A	écorce cérébrale	3.15	781	0.95	745	13,24	0,0747949971009691
 462	T	462	a: appréciable	appréciable	67	A	appréciable	3.20	880	0.43	382	13,13	0,0738838731052763
 390	T	390	n: prédisposition	prédisposition	64	N	prédisposition	3.36	831	0.47	393	12,98	0,0726414312929678
 140	T	140	na: capsule interne	capsule interne	61	N A	capsule interne	3.16	789	0.96	758	12,93	0,0722272840221983
-372	T	372	n: protubérance	protubérance	62	N	protubérance	3.64	800	0.75	603	12,90	0,0719787956597366
+372	T	372	n: protubérance	protubérance	62	N	protubérance	3.64	800	0.75	603	12,9	0,0719787956597366
 42	T	42	a: bilatéral	bilatéral	62	A	bilatérale	3.34	799	0.48	382	12,89	0,0718959662055827
-362	T	362	n: neurologiste	neurologiste	45	N	neurologistes	3.20	576	0.71	408	12,80	0,0711505011181976
+362	T	362	n: neurologiste	neurologiste	45	N	neurologistes	3.20	576	0.71	408	12,8	0,0711505011181976
 292	T	292	n: orteil	orteil	65	N	orteils	3.65	825	0.44	365	12,69	0,0702393771225048
 353	T	353	n: catalepsie	catalepsie	52	N	catalepsie	3.56	660	0.78	512	12,69	0,0702393771225048
 364	T	364	na: folie systématique	folie systématique	36	N A	folie systématique	3.40	456	0.50	229	12,67	0,070073718214197
 317	T	317	na: idée fixe	idée fixe	53	N A	idée fixe	3.26	671	0.85	569	12,66	0,0699908887600431
 59	T	59	n: lement	lement	58	N	lement	3.30	729	0.91	664	12,57	0,069245423672658
 93	T	93	n: anévrisme	anévrisme	23	N	anévrismes	3.20	289	0.48	139	12,57	0,069245423672658
-51	T	51	n: névroglie	névroglie	58	N	névroglie	3.30	725	0.55	398	12,50	0,0686656174935807
+51	T	51	n: névroglie	névroglie	58	N	névroglie	3.30	725	0.55	398	12,5	0,0686656174935807
 46	T	46	a: granuleux	granuleux	65	A	granuleux	3.35	811	0.34	275	12,48	0,0684999585852729
 224	T	224	n: tement	tement	58	N	tement	3.59	720	0.86	620	12,41	0,0679201524061956
 37	T	37	a: ataxique	ataxique	59	A	ataxique	3.30	729	0.74	537	12,36	0,0675060051354262
@@ -192,12 +192,12 @@
 218	T	218	n: arch	arch	62	N	Arch	3.61	749	0.99	742	12,08	0,065186780419117
 22	T	22	n: pie-mère	pie-mère	62	N	pie-mère	3.31	747	0.69	513	12,05	0,0649382920566554
 468	T	468	na: racine postérieur	racine postérieur	61	N A	racines postérieures	3.30	735	0.71	522	12,05	0,0649382920566554
-3	T	3	n: aorte	aorte	53	N	aorte	3.54	636	0.57	363	12,00	0,0645241447858859
+3	T	3	n: aorte	aorte	53	N	aorte	3.54	636	0.57	363	12	0,0645241447858859
 196	T	196	na: sen musculaire	sen musculaire	59	N A	sens musculaire	3.58	704	0.67	471	11,93	0,0639443386068086
 312	T	312	n: déviation	déviation	66	N	déviation	3.63	783	0.41	320	11,86	0,0633645324277313
 466	T	466	na: maladie nerveux	maladie nerveux	66	N A	maladies nerveuses	3.15	782	0.40	316	11,85	0,0632817029735774
 133	T	133	n: psychiat	psychiat	24	N	Psychiat	3.19	284	1.00	283	11,83	0,0631160440652696
-190	T	190	a: tonique	tonique	66	A	toniques	3.33	779	0.42	326	11,80	0,0628675557028079
+190	T	190	a: tonique	tonique	66	A	toniques	3.33	779	0.42	326	11,8	0,0628675557028079
 191	T	191	n: motilité	motilité	65	N	motilité	3.62	759	0.42	322	11,68	0,0618736022529612
 102	T	102	n: plexus	plexus	65	N	plexus	3.61	752	0.15	114	11,57	0,0609624782572683
 202	T	202	na: cordon latéral	cordon latéral	60	N A	cordons latéraux	3.27	688	0.60	415	11,47	0,0601341837157293
@@ -205,7 +205,7 @@
 15	T	15	a: dégénératif	dégénératif	57	A	dégénérative	3.25	651	0.28	185	11,42	0,0597200364449598
 333	T	333	n: myxoedème	myxoedème	38	N	myxoedème	3.37	434	0.67	292	11,42	0,0597200364449598
 192	T	192	na: revue critique	revue critique	46	N A	REVUE CRITIQUE	3.45	518	0.99	511	11,26	0,0583947651784975
-293	T	293	a: rieure	rieure	55	A	rieure	3.23	616	1.00	616	11,20	0,0578977884535741
+293	T	293	a: rieure	rieure	55	A	rieure	3.23	616	1.00	616	11,2	0,0578977884535741
 146	T	146	n: goitre	goitre	56	N	goitre	3.23	625	0.32	197	11,16	0,0575664706369585
 50	T	50	n: pitre	pitre	63	N	Pitres	3.58	702	0.87	610	11,14	0,0574008117286507
 486	T	486	n: tare	tare	59	N	tare	3.55	657	0.28	187	11,14	0,0574008117286507
@@ -213,7 +213,7 @@
 38	T	38	a: olfactif	olfactif	51	A	olfactif	3.19	563	0.32	179	11,04	0,0565725171871117
 238	T	238	na: trouble psychique	trouble psychique	60	N A	troubles psychiques	3.56	662	0.89	586	11,03	0,0564896877329578
 100	T	100	a: psychiatrique	psychiatrique	54	A	psychiatrique	3.51	595	0.20	121	11,02	0,0564068582788039
-478	T	478	a: gastrique	gastrique	66	A	gastriques	3.60	726	0.27	198	11,00	0,0562411993704961
+478	T	478	a: gastrique	gastrique	66	A	gastriques	3.60	726	0.27	198	11	0,0562411993704961
 201	T	201	na: revue neurologique	revue neurologique	26	N A	Revue neurologique	3.19	285	1.00	284	10,96	0,0559098815538806
 103	T	103	n: internement	internement	53	N	internement	3.49	571	0.71	407	10,77	0,0543361219249565
 358	T	358	a: tactile	tactile	62	A	tactile	3.56	664	0.15	102	10,71	0,0538391452000331
@@ -226,14 +226,14 @@
 88	T	88	n: kyste	kyste	61	N	kystes	3.55	643	0.45	287	10,54	0,0524310444794169
 446	T	446	n: neurolog	neurolog	41	N	Neurolog	3.37	429	1.00	428	10,46	0,0517684088461857
 7	T	7	n: terminaison	terminaison	67	N	terminaison	3.28	700	0.43	301	10,45	0,0516855793920318
-251	T	251	n: albumine	albumine	60	N	albumine	3.53	618	0.50	307	10,30	0,0504431375797234
+251	T	251	n: albumine	albumine	60	N	albumine	3.53	618	0.50	307	10,3	0,0504431375797234
 259	T	259	a: céré	céré	55	A	céré	3.49	564	0.29	164	10,25	0,0500289903089539
 19	T	19	n: urée	urée	45	N	urée	3.40	457	0.49	225	10,16	0,0492835252215688
 326	T	326	na: paralysie facial	paralysie facial	59	N A	paralysie faciale	3.21	598	0.57	340	10,14	0,049117866313261
 2	T	2	a: somatique	somatique	60	A	somatiques	3.52	608	0.33	199	10,13	0,0490350368591071
 304	T	304	n: cylindraxe	cylindraxe	42	N	cylindraxes	3.37	425	0.72	306	10,12	0,0489522074049532
 246	T	246	a: étiologique	étiologique	63	A	étiologique	3.24	635	0.20	127	10,08	0,0486208895883376
-378	T	378	n: congestion	congestion	65	N	congestion	3.55	650	0.41	268	10,00	0,0479582539551064
+378	T	378	n: congestion	congestion	65	N	congestion	3.55	650	0.41	268	10	0,0479582539551064
 220	T	220	a: neurologique	neurologique	37	A	neurologique	3.30	368	0.15	56	9,95	0,0475441066843369
 450	T	450	n: môme	môme	63	N	môme	3.53	627	0.67	419	9,95	0,0475441066843369
 321	T	321	a: géné	géné	54	A	géné	3.47	535	0.23	122	9,91	0,0472127888677214
@@ -244,9 +244,9 @@
 360	T	360	na: glande thyroïde	glande thyroïde	43	N A	glande thyroïde	3.36	421	0.90	378	9,79	0,0462188354178746
 245	T	245	n: brissaud	brissaud	59	N	Brissaud	3.20	575	0.96	551	9,75	0,045887517601259
 31	T	31	n: extenseur	extenseur	56	N	extenseurs	3.17	545	0.53	290	9,73	0,0457218586929512
-343	T	343	a: passionnel	passionnel	43	A	passionnelles	3.36	417	0.24	102	9,70	0,0454733703304895
-72	T	72	n: odorat	odorat	63	N	odorat	3.52	605	0.75	456	9,60	0,0446450757889506
-391	T	391	n: rémission	rémission	63	N	rémission	3.52	605	0.69	418	9,60	0,0446450757889506
+343	T	343	a: passionnel	passionnel	43	A	passionnelles	3.36	417	0.24	102	9,7	0,0454733703304895
+72	T	72	n: odorat	odorat	63	N	odorat	3.52	605	0.75	456	9,6	0,0446450757889506
+391	T	391	n: rémission	rémission	63	N	rémission	3.52	605	0.69	418	9,6	0,0446450757889506
 54	T	54	a: cubital	cubital	60	A	cubital	3.20	575	0.48	277	9,58	0,0444794168806428
 342	T	342	npn: cas de paralysie	cas de paralysie	65	N P N	cas de paralysie	3.53	623	0.26	163	9,58	0,0444794168806428
 70	T	70	n: tation	tation	56	N	tation	3.47	536	0.78	419	9,57	0,0443965874264889
@@ -259,7 +259,7 @@
 29	T	29	n: lysie	lysie	56	N	lysie	3.45	520	0.33	172	9,29	0,0420773627101797
 215	T	215	n: allg	allg	43	N	Allg	3.34	399	1.00	398	9,28	0,0419945332560258
 332	T	332	n: sieur	sieur	56	N	sieurs	3.45	516	0.67	346	9,21	0,0414147270769486
-63	T	63	a: urinaire	urinaire	59	A	urinaire	3.47	543	0.22	117	9,20	0,0413318976227947
+63	T	63	a: urinaire	urinaire	59	A	urinaire	3.47	543	0.22	117	9,2	0,0413318976227947
 123	T	123	a: varié	varié	67	A	variés	3.53	616	0.66	404	9,19	0,0412490681686408
 221	T	221	n: infirmerie	infirmerie	64	N	infirmerie	3.51	586	0.40	235	9,16	0,0410005798061791
 156	T	156	n: vessie	vessie	67	N	vessie	3.52	612	0.68	418	9,13	0,0407520914437174
@@ -267,7 +267,7 @@
 30	T	30	a: paternel	paternel	61	A	paternel	3.48	553	0.14	76	9,07	0,040255114718794
 180	T	180	n: rétine	rétine	65	N	rétine	3.51	589	0.78	462	9,06	0,0401722852646401
 124	T	124	a: successif	successif	67	A	successives	3.52	606	0.50	306	9,04	0,0400066263563323
-370	T	370	a: brachial	brachial	64	A	brachial	3.50	576	0.20	113	9,00	0,0396753085397167
+370	T	370	a: brachial	brachial	64	A	brachial	3.50	576	0.20	113	9	0,0396753085397167
 153	T	153	na: main gauche	main gauche	65	N A	main gauche	3.20	584	0.98	574	8,98	0,0395096496314089
 305	T	305	a: féré	féré	59	A	Féré	3.46	529	0.99	525	8,97	0,039426820177255
 110	T	110	a: faradique	faradique	62	A	faradique	3.18	554	0.18	101	8,94	0,0391783318147933
@@ -292,7 +292,7 @@
 186	T	186	n: rougeur	rougeur	64	N	rougeur	3.47	543	0.61	332	8,48	0,0353681769237141
 78	T	78	a: collatéral	collatéral	58	A	collatérales	3.42	486	0.64	310	8,38	0,0345398823821751
 200	T	200	a: ovarien	ovarien	48	A	ovarienne	3.34	400	0.17	68	8,33	0,0341257351114056
-244	T	244	a: émotif	émotif	56	A	émotif	3.40	465	0.67	312	8,30	0,0338772467489439
+244	T	244	a: émotif	émotif	56	A	émotif	3.40	465	0.67	312	8,3	0,0338772467489439
 428	T	428	n: neurol	neurol	47	N	Neurol	3.33	389	1.00	389	8,28	0,0337115878406361
 83	T	83	naa: système nerveux central	système nerveux central	59	N A A	système nerveux central	3.43	488	0.75	365	8,27	0,0336287583864822
 459	T	459	a: viscéral	viscéral	62	A	viscérales	3.45	512	0.35	177	8,26	0,0335459289323283
@@ -300,7 +300,7 @@
 352	T	352	n: eschare	eschare	47	N	eschare	3.32	384	0.55	213	8,17	0,0328004638449433
 318	T	318	n: puberté	puberté	55	N	puberté	3.39	448	0.66	295	8,15	0,0326348049366355
 387	T	387	n: ictus	ictus	59	N	ictus	3.42	479	0.51	246	8,12	0,0323863165741738
-494	T	494	n: ture	ture	59	N	ture	3.42	478	0.81	387	8,10	0,032220657665866
+494	T	494	n: ture	ture	59	N	ture	3.42	478	0.81	387	8,1	0,032220657665866
 116	T	116	n: thorax	thorax	62	N	thorax	3.44	501	0.71	354	8,08	0,0320549987575582
 243	T	243	a: ultérieur	ultérieur	66	A	ultérieure	3.46	533	0.41	218	8,08	0,0320549987575582
 423	T	423	a: impulsif	impulsif	59	A	impulsifs	3.41	471	0.61	286	7,98	0,0312267042160192
@@ -310,7 +310,7 @@
 185	T	185	n: tractus	tractus	57	N	tractus	3.39	453	0.53	238	7,95	0,0309782158535575
 84	T	84	n: basedow	basedow	46	N	Basedow	3.30	365	0.11	39	7,93	0,0308125569452497
 491	T	491	n: fibrille	fibrille	51	N	fibrilles	3.34	404	0.63	253	7,92	0,0307297274910958
-381	T	381	n: ponction	ponction	42	N	ponction	3.26	332	0.30	100	7,90	0,030564068582788
+381	T	381	n: ponction	ponction	42	N	ponction	3.26	332	0.30	100	7,9	0,030564068582788
 339	T	339	n: incontinence	incontinence	60	N	incontinence	3.41	471	0.19	88	7,85	0,0301499213120186
 402	T	402	a: fibreux	fibreux	61	A	fibreux	3.42	478	0.33	159	7,84	0,0300670918578647
 460	T	460	na: hémisphère gauche	hémisphère gauche	57	N A	hémisphère gauche	3.38	438	0.97	423	7,68	0,0287418205914023
@@ -326,7 +326,7 @@
 56	T	56	n: xiii	xiii	66	N	XIII	3.42	477	0.98	469	7,23	0,0250144951544769
 67	T	67	n: renflement	renflement	63	N	renflement	3.40	455	0.18	83	7,22	0,024931665700323
 81	T	81	na: face interne	face interne	64	N A	face interne	3.40	462	0.77	355	7,22	0,024931665700323
-338	T	338	npn: arc de cercle	arc de cercle	41	N P N	arc de cercle	3.21	295	0.86	253	7,20	0,0247660067920152
+338	T	338	npn: arc de cercle	arc de cercle	41	N P N	arc de cercle	3.21	295	0.86	253	7,2	0,0247660067920152
 79	T	79	n: abdomen	abdomen	63	N	abdomen	3.39	450	0.74	335	7,14	0,0242690300670919
 120	T	120	n: ablation	ablation	57	N	ablation	3.35	407	0.46	186	7,14	0,0242690300670919
 357	T	357	n: lade	lade	59	N	lade	3.36	420	0.95	401	7,12	0,0241033711587841
@@ -335,8 +335,8 @@
 457	T	457	n: rate	rate	55	N	rate	3.33	391	0.67	261	7,11	0,0240205417046302
 228	T	228	n: bile	bile	45	N	bile	3.23	314	0.76	238	6,98	0,0229437588006295
 366	T	366	a: centripète	centripète	57	A	centripètes	3.34	398	0.38	153	6,98	0,0229437588006295
-65	T	65	n: xvii	xvii	61	N	XVII	3.36	421	1.00	420	6,90	0,0222811231673983
-410	T	410	na: délire aigu	délire aigu	49	N A	délire aigu	3.27	338	0.74	251	6,90	0,0222811231673983
+65	T	65	n: xvii	xvii	61	N	XVII	3.36	421	1.00	420	6,9	0,0222811231673983
+410	T	410	na: délire aigu	délire aigu	49	N A	délire aigu	3.27	338	0.74	251	6,9	0,0222811231673983
 207	T	207	a: bles	bles	54	A	bles	3.31	370	1.00	370	6,85	0,0218669758966288
 236	T	236	na: hémisphère droit	hémisphère droit	61	N A	hémisphère droit	3.36	418	0.94	395	6,85	0,0218669758966288
 349	T	349	a: ganglionnaire	ganglionnaire	59	A	ganglionnaires	3.34	403	0.14	58	6,83	0,0217013169883211
@@ -373,17 +373,17 @@
 430	T	430	a: sous-cutané	sous-cutané	64	A	sous-cutanées	3.34	405	0.21	86	6,33	0,0175598442806262
 488	T	488	n: tact	tact	61	N	tact	3.32	386	0.67	259	6,33	0,0175598442806262
 167	T	167	n: conduit	conduit	52	N	conduits	3.25	328	0.30	99	6,31	0,0173941853723184
-327	T	327	n: phtisie	phtisie	46	N	phtisie	3.20	290	0.34	99	6,30	0,0173113559181645
-335	T	335	n: logie	logie	57	N	logie	3.29	359	0.73	263	6,30	0,0173113559181645
-344	T	344	n: dortoir	dortoir	56	N	dortoirs	3.29	353	0.84	295	6,30	0,0173113559181645
+327	T	327	n: phtisie	phtisie	46	N	phtisie	3.20	290	0.34	99	6,3	0,0173113559181645
+335	T	335	n: logie	logie	57	N	logie	3.29	359	0.73	263	6,3	0,0173113559181645
+344	T	344	n: dortoir	dortoir	56	N	dortoirs	3.29	353	0.84	295	6,3	0,0173113559181645
 396	T	396	a: simultané	simultané	63	A	simultanée	3.33	396	0.47	187	6,29	0,0172285264640106
 234	T	234	na: trouble nerveux	trouble nerveux	62	N A	troubles nerveux	3.32	387	0.86	331	6,24	0,0168143791932411
-170	T	170	a: fruste	fruste	59	A	frustes	3.30	366	0.38	140	6,20	0,0164830613766255
+170	T	170	a: fruste	fruste	59	A	frustes	3.30	366	0.38	140	6,2	0,0164830613766255
 145	T	145	n: surmenage	surmenage	52	N	surmenage	3.24	321	0.54	173	6,17	0,0162345730141638
 367	T	367	na: asile clinique	asile clinique	44	N A	Asile clinique	3.17	271	0.98	265	6,16	0,0161517435600099
 291	T	291	n: rectum	rectum	59	N	rectum	3.30	363	0.75	273	6,15	0,016068914105856
 347	T	347	n: larynx	larynx	62	N	larynx	3.32	380	0.66	252	6,13	0,0159032551975482
-135	T	135	npn: cas de folie	cas de folie	50	N P N	cas de folie	3.22	305	0.62	188	6,10	0,0156547668350866
+135	T	135	npn: cas de folie	cas de folie	50	N P N	cas de folie	3.22	305	0.62	188	6,1	0,0156547668350866
 499	T	499	n: toux	toux	64	N	toux	3.33	390	0.61	238	6,09	0,0155719373809327
 214	T	214	n: alié	alié	52	N	alié	3.24	316	0.72	228	6,08	0,0154891079267788
 298	T	298	a: in-8	in-8	45	A	in-8	3.17	273	0.91	248	6,07	0,0154062784726249
@@ -392,11 +392,11 @@
 386	T	386	n: vation	vation	56	N	vation	3.27	339	0.84	284	6,05	0,0152406195643171
 487	T	487	n: tain	tain	56	N	tains	3.27	338	0.42	142	6,04	0,0151577901101632
 62	T	62	n: tère	tère	58	N	tère	3.28	350	0.70	245	6,03	0,0150749606560093
-451	T	451	a: tive	tive	56	A	tive	3.26	336	1.00	335	6,00	0,0148264722935476
+451	T	451	a: tive	tive	56	A	tive	3.26	336	1.00	335	6	0,0148264722935476
 371	T	371	n: mala	mala	56	N	mala	3.26	333	0.91	302	5,95	0,0144123250227781
 49	T	49	n: richer	richer	46	N	Richer	3.17	273	0.99	271	5,93	0,0142466661144703
 346	T	346	n: onanisme	onanisme	51	N	onanisme	3.22	302	0.84	254	5,92	0,0141638366603164
-144	T	144	n: contagion	contagion	49	N	contagion	3.20	289	0.41	118	5,90	0,0139981777520086
+144	T	144	n: contagion	contagion	49	N	contagion	3.20	289	0.41	118	5,9	0,0139981777520086
 39	T	39	na: asile spécial	asile spécial	45	N A	asile spécial	3.16	265	0.89	236	5,89	0,0139153482978547
 248	T	248	n: dyspnée	dyspnée	61	N	dyspnée	3.29	359	0.76	274	5,89	0,0139153482978547
 377	T	377	npn: heure du soir	heure du soir	63	N P N	heures du soir	3.30	369	0.99	365	5,86	0,013666859935393
@@ -406,12 +406,12 @@
 429	T	429	n: rieures	rieures	57	N	rieures	3.26	332	0.89	295	5,82	0,0133355421187774
 354	T	354	na: médecine mental	médecine mental	52	N A	médecine mentale	3.22	302	0.49	148	5,81	0,0132527126646235
 452	T	452	n: london	london	52	N	London	3.22	302	0.97	292	5,81	0,0132527126646235
-287	T	287	n: orifice	orifice	60	N	orifice	3.28	348	0.52	182	5,80	0,0131698832104696
+287	T	287	n: orifice	orifice	60	N	orifice	3.28	348	0.52	182	5,8	0,0131698832104696
 399	T	399	a: laires	laires	52	A	laires	3.22	301	1.00	301	5,79	0,0130870537563157
 285	T	285	na: organe génital	organe génital	60	N A	organes génitaux	3.28	345	0.76	261	5,75	0,0127557359397002
 350	T	350	n: amaurose	amaurose	55	N	amaurose	3.24	315	0.44	138	5,73	0,0125900770313924
 26	T	26	n: broca	broca	58	N	Broca	3.26	331	0.64	211	5,71	0,0124244181230846
-99	T	99	n: gâtisme	gâtisme	46	N	gâtisme	3.16	262	0.84	220	5,70	0,0123415886689307
+99	T	99	n: gâtisme	gâtisme	46	N	gâtisme	3.16	262	0.84	220	5,7	0,0123415886689307
 383	T	383	n: chloral	chloral	53	N	chloral	3.22	301	0.70	212	5,68	0,0121759297606229
 175	T	175	n: lades	lades	54	N	lades	3.22	306	0.96	295	5,67	0,012093100306469
 295	T	295	n: fonc	fonc	53	N	fonc	3.21	300	0.91	272	5,66	0,0120102708523151
@@ -420,7 +420,7 @@
 164	T	164	a: minutieux	minutieux	66	A	minutieuse	3.31	371	0.54	202	5,62	0,0116789530356995
 271	T	271	na: moitié droit	moitié droit	65	N A	moitié droite	3.30	365	0.71	259	5,62	0,0116789530356995
 165	T	165	n: ueber	ueber	59	N	Ueber	3.26	331	0.40	133	5,61	0,0115961235815456
-373	T	373	n: strabisme	strabisme	60	N	strabisme	3.26	336	0.57	191	5,60	0,0115132941273917
+373	T	373	n: strabisme	strabisme	60	N	strabisme	3.26	336	0.57	191	5,6	0,0115132941273917
 104	T	104	n: romberg	romberg	51	N	Romberg	3.19	285	0.12	35	5,59	0,0114304646732378
 48	T	48	n: tégument	tégument	58	N	téguments	3.25	323	0.48	155	5,57	0,01126480576493
 231	T	231	na: partie moyen	partie moyen	62	N A	partie moyenne	3.27	344	0.85	292	5,55	0,0110991468566222
@@ -429,7 +429,7 @@
 389	T	389	na: racine antérieur	racine antérieur	54	N A	racines antérieures	3.21	298	0.61	183	5,52	0,0108506584941605
 448	T	448	a: veineux	veineux	60	A	veineux	3.26	331	0.31	102	5,52	0,0108506584941605
 467	T	467	n: esquirol	esquirol	56	N	Esquirol	3.23	309	0.68	211	5,52	0,0108506584941605
-127	T	127	n: largeur	largeur	62	N	largeur	3.27	341	0.69	235	5,50	0,0106849995858527
+127	T	127	n: largeur	largeur	62	N	largeur	3.27	341	0.69	235	5,5	0,0106849995858527
 485	T	485	n: subs	subs	51	N	subs	3.18	280	0.92	257	5,49	0,0106021701316988
 204	T	204	n: opium	opium	61	N	opium	3.26	334	0.68	226	5,48	0,0105193406775449
 239	T	239	n: nière	nière	57	N	nière	3.23	312	0.78	243	5,47	0,010436511223391
@@ -437,7 +437,7 @@
 216	T	216	n: commotion	commotion	54	N	commotion	3.21	294	0.41	122	5,44	0,0101880228609294
 356	T	356	a: puerpéral	puerpéral	55	A	puerpérale	3.21	298	0.38	114	5,42	0,0100223639526216
 85	T	85	npn: idée de grandeur	idée de grandeur	49	N P N	idées de grandeur	3.16	265	0.73	194	5,41	0,00993953449846766
-66	T	66	n: vement	vement	57	N	vement	3.23	308	0.86	266	5,40	0,00985670504431376
+66	T	66	n: vement	vement	57	N	vement	3.23	308	0.86	266	5,4	0,00985670504431376
 282	T	282	n: tisme	tisme	57	N	tisme	3.22	307	0.89	272	5,39	0,00977387559015986
 425	T	425	n: pott	pott	51	N	Pott	3.18	275	0.92	252	5,39	0,00977387559015986
 493	T	493	n: fourmillement	fourmillement	62	N	fourmillements	3.26	332	0.65	215	5,35	0,00944255777354427
@@ -451,7 +451,7 @@
 458	T	458	na: accident nerveux	accident nerveux	62	N A	accidents nerveux	3.25	325	0.87	284	5,24	0,00853143377785141
 359	T	359	n: massage	massage	59	N	massage	3.23	308	0.84	259	5,22	0,00836577486954361
 440	T	440	n: chique	chique	53	N	chiques	3.18	276	0.94	259	5,21	0,00828294541538971
-444	T	444	na: maladie infectieux	maladie infectieux	54	N A	maladies infectieuses	3.19	281	0.86	242	5,20	0,00820011596123582
+444	T	444	na: maladie infectieux	maladie infectieux	54	N A	maladies infectieuses	3.19	281	0.86	242	5,2	0,00820011596123582
 61	T	61	n: testicule	testicule	56	N	testicules	3.20	290	0.54	158	5,18	0,00803445705292802
 418	T	418	n: trique	trique	55	N	trique	3.19	284	0.85	240	5,16	0,00786879814462023
 13	T	13	n: myosis	myosis	52	N	myosis	3.16	267	0.81	217	5,13	0,00762030978215854
@@ -470,7 +470,7 @@
 281	T	281	a: parenchymateux	parenchymateux	53	A	parenchymateuse	3.16	266	0.26	70	5,02	0,00670918578646566
 392	T	392	n: vements	vements	59	N	vements	3.21	296	0.60	178	5,02	0,00670918578646566
 395	T	395	n: débilité	débilité	57	N	débilité	3.19	286	0.15	43	5,02	0,00670918578646566
-69	T	69	n: lepsie	lepsie	59	N	lepsie	3.21	295	0.82	243	5,00	0,00654352687815787
+69	T	69	n: lepsie	lepsie	59	N	lepsie	3.21	295	0.82	243	5	0,00654352687815787
 421	T	421	a: muscu	muscu	54	A	muscu	3.17	269	0.40	107	4,98	0,00637786796985008
 345	T	345	npn: attaque de épilepsie	attaque de épilepsie	55	N P N	attaques d'épilepsie	3.17	273	0.81	221	4,96	0,00621220906154228
 188	T	188	n: sphincter	sphincter	63	N	sphincters	3.23	312	0.45	140	4,95	0,00612937960738839
@@ -482,7 +482,7 @@
 436	T	436	a: exagéré	exagéré	64	A	exagérée	3.23	309	0.62	192	4,83	0,00513542615754162
 280	T	280	n: expé	expé	55	N	expé	3.16	265	0.96	255	4,82	0,00505259670338773
 461	T	461	a: rhumatismal	rhumatismal	61	A	rhumatismale	3.21	294	0.35	103	4,82	0,00505259670338773
-138	T	138	n: embolie	embolie	60	N	embolie	3.20	288	0.51	148	4,80	0,00488693779507993
+138	T	138	n: embolie	embolie	60	N	embolie	3.20	288	0.51	148	4,8	0,00488693779507993
 393	T	393	a: destructif	destructif	57	A	destructives	3.17	273	0.27	75	4,79	0,00480410834092603
 331	T	331	a: graduel	graduel	63	A	graduelle	3.21	300	0.64	192	4,76	0,00455561997846434
 398	T	398	n: sation	sation	55	N	sation	3.15	261	0.82	213	4,75	0,00447279052431045
@@ -492,11 +492,11 @@
 189	T	189	n: viscère	viscère	62	N	viscères	3.20	290	0.65	189	4,68	0,00389298434523316
 159	T	159	n: brûlure	brûlure	61	N	brûlure	3.18	279	0.50	139	4,57	0,0029818603495403
 438	T	438	n: thrombose	thrombose	58	N	thrombose	3.16	262	0.62	163	4,52	0,00256771307877081
-476	T	476	na: nerf moteur	nerf moteur	62	N A	nerfs moteurs	3.18	279	0.53	149	4,50	0,00240205417046302
+476	T	476	na: nerf moteur	nerf moteur	62	N A	nerfs moteurs	3.18	279	0.53	149	4,5	0,00240205417046302
 233	T	233	n: apophyse	apophyse	59	N	apophyse	3.16	263	0.14	38	4,46	0,00207073635384743
 375	T	375	na: affection nerveux	affection nerveux	62	N A	affections nerveuses	3.18	276	0.82	226	4,45	0,00198790689969353
 411	T	411	npn: plante du pied	plante du pied	60	N P N	plante du pied	3.16	267	0.88	236	4,45	0,00198790689969353
 97	T	97	n: palpitation	palpitation	61	N	palpitations	3.17	268	0.68	182	4,39	0,00149093017477015
-20	T	20	n: prodrome	prodrome	61	N	prodromes	3.16	262	0.84	220	4,30	0,000745465087385073
+20	T	20	n: prodrome	prodrome	61	N	prodromes	3.16	262	0.84	220	4,3	0,000745465087385073
 388	T	388	a: prédominant	prédominant	63	A	prédominante	3.17	269	0.56	150	4,27	0,00049697672492338
 308	T	308	npn: académie de médecine	académie de médecine	62	N P N	Académie de médecine	3.15	261	0.96	251	4,21	0
